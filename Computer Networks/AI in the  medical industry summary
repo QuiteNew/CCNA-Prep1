@@ -1,0 +1,31 @@
+Best AI Systems for Healthcare Integration 
+
+1. Abridge (USA — Widely Deployed in Hospitals)
+Overview:
+Abridge is one of the most successful AI medical scribes, used in over 100 U.S. health systems. It listens to doctor-patient conversations and automatically generates accurate clinical notes, summaries, and referral drafts.
+Benefits for Our Use Case:
+•	Proven scalability and reliability in real hospitals.
+•	Strong at structuring unorganized medical speech into usable records.
+•	Reduces doctor workload immediately, supports fast adoption.
+Why It Fits:
+Ideal as the documentation backbone for our system, ensuring rapid note creation and seamless integration with predictive models.
+
+4. LLaMA + RAG Clinical Fine-Tuning (Research-Backed, Customizable)
+Overview:
+A fine-tuned LLaMA model combined with Retrieval-Augmented Generation (RAG) gives an LLM the ability to reference massive medical histories, guidelines, and institution-specific data in real time.
+Benefits for Our Use Case:
+•	Handles large context from multiple hospitals and decades of patient data.
+•	Customizable for Macedonian medical terminology, workflows, and languages.
+•	Enables predictive insights, early intervention alerts, and MoodMapper integration.
+Why It Fits:
+This model becomes the “brain” of your national healthcare AI — fully tailored, secure, and future-proof.
+
+3. Heidi Health (Australia — AI Clinical Assistant)
+Overview:
+Heidi Health automates medical transcription, creates structured data from conversations, and assists doctors with quick medical summaries.
+Benefits for Our Use Case:
+•	Designed for small to mid-sized clinics—ideal for Macedonian public institutions.
+•	Very fast deployment and simple onboarding.
+•	Strong structured output, good for feeding predictive AI modules.
+Why It Fits:
+Best for clinics and GP offices, providing a lightweight AI layer that immediately improves efficiency.
